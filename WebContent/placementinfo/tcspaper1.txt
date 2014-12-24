@@ -1,0 +1,504 @@
+Sample papers >>
+Recruitment Processes Archives(Sample Papers)
+TCS - Question paper - 02 Conducted On -- 2003
+--------------------------------------------------------------------------------
+TCSMock test-2003
+-------------------------------------------------------------
+Quantitative Ability
+1) Bhanu spends 30% of his income on petrol on scooter. ¼ of the remaining
+on house rent and the balance on food. If he spends Rs.300 on petrol then
+what is the expenditure on house rent?
+a) Rs.525
+b)Rs.1000
+c) Rs.675
+d) Rs.175
+2) If the numerator of a fraction is increased by 25% and denominator decre
+ased by 20%, the new value is 5/4. What is the original value?
+a) 3/5
+b) 4/5
+c) 7/8
+d) 3/7
+3) The length of a rectangle is increased by 60%. By what % would the widt
+h have to be decreased to maintain the same area?
+a) 30%
+b) 60%
+c) 75%
+d) 37.5%
+4) The value of¾ + 5 / 36 + 7 / 144 + ??.+17 / 5184 + 19 / 8100 is
+a) 0.99
+b) 0.98
+c) 0.95
+d) None of these
+5) A sporting goods store ordered an equal number of white and yellow balls.
+The tennis ball company delivered 45 extra white balls, making the ratio of
+white balls to yellow balls 1/5 : 1/6. How many white tennis balls did the
+store originally order for?
+a) 450
+b) 270
+c) 225
+d) None of these
+6) A student's grade in a course is determined by 6 quizzes and one examinat
+ion. If the examination counts thrice as much as each of the quizzes, what f
+raction of final grade is determined by the examination?
+a) 1/6
+b) 1/5
+c) 1/3
+d) ¼
+7) A sum of money is divided among A, B and C such that for each rupee A ge
+ts, B gets 65paise and C gets 35paise. If C's share is Rs.560, the sum is ?
+a) 2400
+b) 2800
+c) 3200
+d) 3800
+8) Joe's father will be twice his age 6 years from now. His mother was twice
+his age 2 years before. If Joe will be 24 two years from now, what is the d
+ifference between his father's and mother's age?
+a) 4
+b) 6
+c) 8
+d) 10
+9) A traveler walks a certain distance. Had he gone half a kilometer an hour
+faster \, he would have walked it in 4/5 of the time, and had he gone half
+a Kilometer an hour slower, he would have walked 2 ½ hr longer. What is the
+distance?
+a) 10 Km
+b) 15 Km
+c) 20 Km
+d) Data Insufficient
+10) Two oranges, 3 bananas and 4 apples cost Rs.15. 3 oranges, 2 bananas a
+nd 1 apple cost Rs.10. I bought 3 oranges, 3 bananas and 3 apples. How muc
+h did I pay?
+a) 10
+b) 8
+c) 15
+d) Cannot be determined
+11) A report consists of 20 sheets each of 55 lines and each such line consist
+s of 65 characters. This report is retyped into sheets each of 65 lines such t
+hat each line consists of 70 characters. The % reduction in the number of shee
+ts is closest to
+a) 20
+b) 5
+c) 30
+d) 35
+12) A ship leaves on a long voyage. When it is 18 miles from the shore, a se
+aplane, whose speed is 10 times that of the ship is sent to deliver mail. Ho
+w far from the shore does the seaplane catch upo with the ship?
+a) 24 miles
+b) 25 miles
+c) 22miles
+d) 20 miles
+13) Anand finishes a work in 7 days, Bittu finishes the same job in 8 days
+and Chandu in 6 days.They take turns to finish the work. Anand on the first
+day, Bittu on the second and Chandu on the third day and then Anand again
+and so on. On which day will the work get over?
+a) 3rd
+b) 6th
+c) 9th
+d) 7th
+14) 3 men finish painting a wall in 8 days. Four boys do the same job in 7
+days. In how many days will 2 men and 2 boys working together paint two s
+uch walls of the same size?
+a) 6 6/13 days
+b) 3 3/13 days
+c) 9 2/5 days
+d) 12 12/13 days
+15) There are 5 distinct pairs of white socks and 5 pairs of black socks in a
+cupboard. In the dark, how many socks do I have to pull out to ensure that I
+have at least 1 correct pair of white socks?
+a) 3
+b) 11
+c) 12
+d) 16
+16) In a circular race track of length 100 m, three persons A, B and C start t
+ogether. A and B start in the same direction at speeds of 10 m/s and 8 m/s res
+pectively. While C runs in the opposite at 15 m/s. When will all the three mee
+t for the first time on the after the start?
+a) After 4 s
+b) After 50 s
+c) After 100 s
+d) After 200 s
+17) If the distance traveled (s) in time (t) by a partile is given by the formu
+la s = 1+ 2t+3t2+4t3 , then what is the distance travelled in the 4th second of
+its motion?
+a) 141m
+b) 171m
+c) 243m
+d) 313m
+18) There is a circular pizza with negligible thickness that is cut into 'x'
+pieces by 4 straight line cuts. What is the maximum and minimum value of 'x'
+respectively?
+a) 12,6
+b) 11,6
+c) 12,5
+d) 11,5
+19) When ¾ of a unit's digit is added to the ten's digit of a two number, the s
+um of the digits becomes 10. If ¼ of the ten's digit added to the unit's digit,
+then the sum of the digits is 1 less than the previous. Find the number.
+a) 94
+b) 84
+c) 48
+d) 88
+20) LCM of x and y is 36 and HCF of x and y is 4. If x = 4 then which of the
+following is definitely not true?
+a) Y is divisible by 3
+b) Y is divisible by 6
+c) Y is divisible by 9
+d) X+Y is divisible by
+21) Amal bought 5 pens, 7 pencils and 4 erasers. Rajan bought 6 pens, 8 e
+rasers and 14 pencils for an amount which was half more than what Amal ha
+d paid. What % of the total amount paid by Amal was paid for pens?
+a) 37.5%
+b) 62.5%
+c) 50%
+d) None of these
+22) A non stop bus to Amritsar overtakes an auto also moving towards Amrits
+ar at 10 am. The bus reaches Amritsar at 12.30 pm and starts on the return
+journey after 1 hr. On the way back it meets the auto at 2 pm. At what time
+the auto will reach Amritsar?
+a) 2.30pm
+b) 3.00pm
+c) 3.15pm
+d) 3.30pm
+23) The total expense of a boarding house are partly fixed and partly varia
+ble with the number of boarders. The charge is Rs.70 per headwhen there are
+25 boarders and Rs.60 when there are 50 boarders. Find the charge per head
+when there are 100 boarders.
+a) 65
+b) 55
+c) 50
+d) 45
+24) How many positive integer solutions does the equation 2x+3y = 100 hav
+e?
+a) 50
+b) 33
+c) 16
+d) 35
+25) A person had to multiply two numbers. Instead of multiplying by 35, he
+multiplied by 53and the product went up by 540. What was the raised produ
+ct?
+a) 780
+b) 1040
+c) 1590
+d) 1720
+VERBAL ABILITY
+Directions (26-35): Choose the lettered word or phrase that is most nearly op
+posite in meaning to the word in capital letters
+26)IMPROMPTU
+a)Carefully rehearsed
+b) Widely recognized
+c)Narrowly focussed
+d)Purposefully vague
+27)BALLOON
+a) Regain completely
+b)Decrease slowly
+c)Respond rapidly
+d)Request humbly
+28) AVID
+a)Independent
+b)Inquisitive
+c) Swift
+d)Indifferent
+29)MOROSE
+a) Fast talking
+b) Quick witted
+c)Lighthearted
+d) Casual
+30)ANOMALY
+a)Predicted occurrence
+b)Temporary solution
+c) Easy problem
+d)Continuous process
+31)NEOLOGISM
+a)Syllogism
+b)Idealism
+c)archaism
+d)ostracism
+32)RAREFY
+a)Condense
+b)Conceive
+c)Consign
+d)Conduct
+33)CAUSTIC
+a)Nonflammable
+b)Anesthetic
+c)Antiseptic
+d)Innocuous
+34)SOLVENT
+a)Catalyst
+b)Detergent
+c)Reactant
+d)Precipitant
+35)ESTIMABLE
+a)Recalcitrant
+b)Mendacious
+c)Infamous
+d)Obstinate
+Directions (36-45): Each question has four items. Select the item that does n
+ot belong to this group
+36.
+(a)Spiritual
+(b)Devout
+(c)Pious
+(d)Atheist
+37.
+(a)Prohibit
+(b)Warrant
+(c)Permit
+(d)Allow
+38.
+(a)Extrovert
+(b)Reticent
+(c)Amiable
+(d)Gregarious
+39.
+(a)Repose
+(b)Doze
+(c)Slumber
+(d)Agitation
+40.
+(a)Jeer
+(b)Scoff
+(c)Sweep
+(d)Deride
+41.
+(a)Steadfast
+(b)Staunch
+(c)Unswerving
+(d)Treacherous
+42.
+(a)Moan
+(b)Beat
+(c) Tremble
+(d)Cry
+43.
+(a)Astronaut
+(b)Galaxy
+(c)Comet
+(d)Argot
+44.
+(a)Collage
+(b)Pieces
+(c)Art form
+(d)Presentation
+45.
+(a)Pride
+(b)Cub
+(c)Roar
+(d)Whine
+Directions (46-55): Choose the lettered word or phrase that is most nearly sim
+ilar in meaning to the word in capital letters.
+46. DISCRETION
+a. prudence
+b. consistency
+c. precipice
+d. disturbance
+47. ORDAIN
+a. arrange
+b. command
+c. contribute
+d. establish
+48. PENITENCE
+a. liking
+b. insightful
+c. compunction
+d. penetrable
+49. INCENTIVE
+a. reflex
+b. amplitude
+c. inflection
+d. provocation
+50.OVULATE
+a. penury
+b. immunize
+c. fertilize
+d. reproduce
+51.CAJOLE
+a. coax
+b. motivate
+c. profound
+d. mollify
+52. TO HEAP
+a. to pile
+b. to forbid
+c. to proceed
+d. to share
+53.RAPT
+a. lively
+b. concealed
+c. engrossed
+d. prototype
+54. TO MERIT
+a. to embrace
+b. to devote
+c. to deserve
+d. to combine
+55. ERRATIC
+a. unromantic
+b. free
+c. unknown
+d. steady
+CRITICAL REASONING
+Directions (56-84): In the following set of paragraphs, each of the question
+s following the paragraph has the same answer choice i.e.
+a) Yes
+b) No
+c) Cannot Say
+Mark the appropriate choice for each of the questions.
+Passage A: My father has no brothers. He has three sisters who has two child
+s each.
+56.My grandfather has two sons.
+57. Three of my aunts have two sons
+58. My father is only child to his father
+59. I have six cousins from my mother side
+60. I have one uncle
+Passage B: Ether injected into gallbladder to dissolve cholesterol based gall
+stones. This type one-day treatment is enough for gallstones not for calcium
+stones. This method is alternative to surgery for millions of people who are
+suffering from this disease.
+61.Calcium stones can be cured in one day
+62. Hundreds of people contains calcium stones
+63. Surgery is the only treatment to calcium stones
+64. Ether will be injected into the gallbladder to cure the cholesterol-based g
+allstones
+PASSAGE C: Hacking is illegal entry into another computer. This happens
+mostly because of lack of knowledge of computer networking. With network
+s one machine can access to another machine. Hacking go about withoutkno
+wing that each network is accredited to use network facility.
+65. Hackers never break the code of the company that they work for
+66. Hacking is the only vulnerability of the computers for the usage of the da
+ta
+67.Hacking is done mostly due to the lack of computer knowledge
+PASSAGE D: Alphine tunnels are closed tunnels. In the past 30 yrs not even a
+single accident has been recorded for there is one accident in the rail road
+system. Even in case of a fire accident it is possible to shift the passenger
+s into adjacent wagons and even the live fire can be detected and extinguishe
+d with in the duration of 30 min.
+68. No accident can occur in the closed tunnels
+69. Fire is allowed to live for 30 min
+70. All the care that travel in the tunnels will be carried by rail shutters.
+PASSAGE E: In the past helicopters were forced to ground or crash because o
+f the formation of the ice on the rotors and engines. A new electronic devi
+ce has been developed which can detect the water content in the atmosphere
+and warns the pilot if the temperature is below freezing temperature about
+the formation of the ice on the rotors and wings.
+71.The electronic device can avoid formation of the ice on the wings
+72. There will be the malfunction of rotor & engine because of formation of
+ice
+73. The helicopters were to be crashed or grounded
+74. There is only one device that warn about the formation of ice
+PASSAGE F:In the survey conducted in mumbai out of 63 newly married house
+wives not a single house wife felt that the husbands should take equal par
+t in the household work as they felt they loose their power over their hus
+bands. Inspite of their careers they opt to do the kitchen work themselves
+after coming back to home. The wives get half as much leisure time as the
+husbands get at the weekends.
+75.Housewives want the husbands to take part equally in the household
+76. Wives have half as much leisure time as the husbands have
+77. 39% of the men will work equally in the house in cleaning and washing
+PASSAGE G: Copernicus is the intelligent. In the days of copernicus the tra
+nsport and technology development was less & it took place weeks to communi
+cate a message at that time, wherein we can send it through satellite with
+in no time. Even with this fast developments it has become difficult to und
+erstand each other.
+78. People were not intelligent during Copernicus days
+79. Transport facilities are very much improved in now a days
+80. Even with the fast developments of the technology we can't live happily.
+81. We can understand the people very much with the development of comm
+unication
+PASSAGE H: Senior managers warned the workers that because of the introducti
+on of Japanese industry in the car market there is the threat to the workers
+. They also said that there would be the reduction in the purchase of the sa
+les of car in public. The interest rates of the car will be increased with t
+he loss in demand.
+82. Japanese workers are taking over the jobs of Indian industry.
+83. Managers said car interests would go down after seeing the raise in intere
+st rates.
+84. Japanese investments are ceasing to end in the car industry.
+85. People are very interested to buy the cars.
+Key to Mock Test 2
+---------------------------------
+1. d
+2. b
+3. d
+4. a
+5. c
+6. c
+7. c
+8. c
+9. b
+10. c
+11. a
+12. d
+13. d
+14. d
+15. c
+16. c
+17. b
+18. d
+19. c
+20. d
+21. b
+22. b
+23. b
+24. c
+25. c
+26. a
+27. b
+28. d
+29. c
+30. a
+31. c
+32. a
+33. d
+34. d
+35. c
+36. d
+37. b
+38. b
+39. d
+40. c
+41. d
+42. b
+43. d
+44. b
+45. d
+46. a
+47. b
+48. c
+49. d
+50. c
+51. a
+52. a
+53. c
+54. c
+55. c
+56. c
+57. c
+58. b
+59. c
+60. c
+61. b
+62. c
+63. a
+64. a
+65. c
+66. b
+67. b
+68. a
+69. b
+70. c
+71. b
+72. a
+73. a
+74. a
+75. b
+76. b
+77. b
+78. b
+79. c
+80. c
+81. b
+82. b
+83. a
+84. b
+85. b
